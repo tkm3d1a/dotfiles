@@ -7,6 +7,9 @@
     - copies of dotfiles from ~
     - needs maintinance as updates are made
     - currently minimal
+- ./fonts
+    - system fonts needed to be copied over
+    - some required for power10k use
 - TBD
 
 ## Purpose
@@ -14,6 +17,6 @@ Just trying to get configs saved out as I make them. This will eventually be bui
 
 ## Other Info
 
-Version: 0.01
+Version: 0.02
 
-Date: 09/13/2022
+Date: 09/27/2022
