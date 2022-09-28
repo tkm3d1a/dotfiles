@@ -1,0 +1,10 @@
+cp -r ~/.icons
+cp -r ~/.themes
+cp -r ~/.fonts 
+cp -r ~/Wallpapers
+cp ~/.bashrc
+cp ~/.gitconfig
+
+^^^^^^^^
+copy all above <to repo folder for backup>
+vvvvvvvv
