@@ -1,0 +1,10 @@
+/* Rofi Config file */
+
+configuration {
+	modi: [drun,ssh,combi];
+	combi-modi: [drun,ssh];
+	show-icons: true;
+	
+	
+}
+@theme "dracula"
