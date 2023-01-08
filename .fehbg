@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/tkdev/.wallpapers/firewatch_dark-5k.jpg' 
